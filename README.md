@@ -17,4 +17,9 @@ Abre `index.html` directamente en tu navegador. No requiere instalación, depend
 ## Tecnologías
  
 HTML · CSS · JavaScript vanilla — sin frameworks, sin librerías externas.
+
+
+## Site is live at: 
+
+https://crsaele.github.io/python-learning-guide/
  
